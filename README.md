@@ -1,4 +1,4 @@
 # wpf-screenshot
 ![](wpf-screenshot.png)
 ## WebSite
-https://noitalog.tokyo/wpf-screenshot/
+https://noitaro.github.io/wpf-screenshot/
